@@ -1,2 +1,2 @@
 # Home Automation
-Everything going along with the path taken along Home Automation based on Node-RED, MQTT and other stuff
+Samples I have implemented on the topic of Home Automation based on Raspberry Pi, Node-Red, MQTT and other things
